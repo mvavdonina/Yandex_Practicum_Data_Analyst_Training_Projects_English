@@ -1,5 +1,5 @@
 ## Training project "Analytics in aviacompany"
-[Open the in nbviewer]()
+[Open the project in nbviewer](https://nbviewer.org/github/Emiranunuka/Yandex_Practicum_Data_Analyst_Training_Projects_English/blob/main/airline_eng/avdonina_airline_eng.ipynb)
 ### Tasks
 Visualisation and analysis data of August 2018 on aircrafts models, number of flights and cities of destination for a Russian airline to define the most used models of aircrafts and the most popular cities of destination on domestic flights.
 ### Stack
