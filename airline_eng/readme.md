@@ -1,5 +1,5 @@
 ## Training project "Analytics in aviacompany"
-[Открыть проект в nbviewer]()
+[Open the in nbviewer]()
 ### Tasks
 Visualisation and analysis data of August 2018 on aircrafts models, number of flights and cities of destination for a Russian airline to define the most used models of aircrafts and the most popular cities of destination on domestic flights.
 ### Stack
