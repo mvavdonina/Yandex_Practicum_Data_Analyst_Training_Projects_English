@@ -1,4 +1,4 @@
-## Training project "A/B Test Analysis"
+## Training project "EU A/B Test's Analysis"
 [Open the project in nbviewer](https://nbviewer.org/github/Emiranunuka/Yandex_Practicum_Data_Analyst_Training_Projects_English/blob/main/ab_test_eng/avdonina_eu_ab_test.ipynb)
 
 ### Tasks
