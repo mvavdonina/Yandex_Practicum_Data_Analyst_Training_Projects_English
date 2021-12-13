@@ -1,5 +1,5 @@
 ## Training project "A/A/B Test in a Mobile App"
-[Open the project in nbviewer](https://nbviewer.org/github/Emiranunuka/Yandex_Practicum_Data_Analyst_Training_Projects_English/blob/main/ab_test_eng/avdonina_aab_mobileapp_eng.ipynb)
+[Open the project in nbviewer](https://nbviewer.org/github/Emiranunuka/Yandex_Practicum_Data_Analyst_Training_Projects_English/blob/main/aab_mobileapp_eng/avdonina_aab_mobileapp_eng.ipynb)
 
 ### Tasks
 There're presented data on operations in a mobile application of a startup that sells food products.
