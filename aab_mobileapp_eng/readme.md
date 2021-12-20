@@ -10,6 +10,6 @@ Python, pandas, numpy, math, scipy, stats, proportions_ztest, matplotlib, plotly
 ### Analysis
 EDA and preprocessing: date format, duplicates, outliers. Exploratory analysis of the test groups: distribution of users by test groups, distribution of events by dates of experiment, number of events per user by groups, studying the sales funnel and sequence of steps, comparison of conversions through the funnel between control A/A groups and between control and test groups A/A/B. Multiple comparisons and Sidak's correction. Asessment of statistic significance of the differences by z-tests.
 ### Conclusions
-There's found no a strict sequence of passing the steps through the funnel so it can't be asserted that users get "stuck" at any steps. Conversions in the test group decreased on the most screens of the app comparing with the control groups, but all the changes turned to be not statistically significant. There're supposed reasons caused such not significant results.
+There's found no a strict sequence of passing the steps through the funnel so it can't be asserted that users get "stuck" at any steps. Conversions in the test group decreased on the most screens of the app comparing to the control groups, but all the changes turned to be not statistically significant. There're supposed reasons caused such not significant results.
 ### Status of the project
 + Completed.
