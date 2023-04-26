@@ -1,6 +1,4 @@
-## Yandex Practicum Data Analyst Training Projects in English
-These projects were completed by me for Yandex Practicum's Data Analyst professional training program.
-
+## Practicum by Yandex Data Analyst Training Projects in English
 
 | Project name | Description | Libraries and skills | Link |
 | :--------------- | :-------------------- | :------------------- | :----- |
