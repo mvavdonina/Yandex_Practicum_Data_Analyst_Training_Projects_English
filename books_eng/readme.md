@@ -3,7 +3,7 @@
 ### Tasks
 Getting info from a subscription book reading service's five databases on specified requests by means of SQL.
 ### Stack
-Python, pandas, sqlalchemy
+Python, pandas, sqlalchemy, Postgresql
 ### Job
 EDA and queries to databases on specified requests.
 ### Conclusions
